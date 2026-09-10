@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/postcss';
 import counterConfig from './counter/public-config.json';
 import { fileURLToPath } from 'node:url';
 
-const basePath = '/douong';
+const basePath = '/douong_tung';
 
 export default defineConfig({
   base: `${basePath}/`,
